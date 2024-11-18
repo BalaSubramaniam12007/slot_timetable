@@ -160,7 +160,8 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-![Screenshot 2024-11-18 071928](https://github.com/user-attachments/assets/f5b0badf-7e7e-4d39-8ec4-c26945dab0df)
+![Screenshot 2024-11-18 074445](https://github.com/user-attachments/assets/8e3b131a-93f8-48c1-b67f-c0a54ccf47ff)
+
 
 
 ## RESULT
